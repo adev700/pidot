@@ -1,0 +1,6 @@
+alias l='ls -l'
+alias ll='ls -lah'
+alias :q='exit'
+alias v='vim'
+alias t='tmux'
+alias temp='vcgencmd measure_temp'
